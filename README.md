@@ -10,6 +10,19 @@
 
 ### 最新
 
+* [设计模式之访问者模式（Visitor Pattern）](http://www.stvarnik.top/articles/2019/09/27/1569568864659.html)
+* [设计模式之模板模式（Template）](http://www.stvarnik.top/articles/2019/09/27/1569568644847.html)
+* [设计模式之策略模式（Strategy）](http://www.stvarnik.top/articles/2019/09/27/1569568235603.html)
+* [设计模式之状态模式（State）](http://www.stvarnik.top/articles/2019/09/27/1569567989696.html)
+* [设计模式之观察者模式（Observer）](http://www.stvarnik.top/articles/2019/09/27/1569567597375.html)
+* [设计模式之备忘录模式（Memento）](http://www.stvarnik.top/articles/2019/09/27/1569567300650.html)
+* [设计模式之中介者模式（Mediator）](http://www.stvarnik.top/articles/2019/09/27/1569567005706.html)
+* [设计模式之迭代器模式（Iterator）](http://www.stvarnik.top/articles/2019/09/27/1569566737361.html)
+* [设计模式之解释器模式（Interpreter）](http://www.stvarnik.top/articles/2019/09/27/1569566439834.html)
+* [设计模式之命令模式（Command)](http://www.stvarnik.top/articles/2019/09/27/1569564561820.html)
+* [设计模式之责任链模式（Chain of Responsibility）](http://www.stvarnik.top/articles/2019/09/27/1569564334665.html)
+* [设计模式之代理模式（Proxy）](http://www.stvarnik.top/articles/2019/09/27/1569563965326.html)
+* [设计模式之享元模式()](http://www.stvarnik.top/articles/2019/09/27/1569563591520.html)
 * [设计模式之外观模式（Facade）](http://www.stvarnik.top/articles/2019/09/27/1569552697889.html)
 * [设计模式之装饰器模式(Decorator)](http://www.stvarnik.top/articles/2019/09/26/1569487707788.html)
 * [设计模式之过滤器模式(Filter)](http://www.stvarnik.top/articles/2019/09/26/1569486352398.html)
@@ -17,11 +30,14 @@
 * [设计模式之适配器模式(Adapter)](http://www.stvarnik.top/articles/2019/09/26/1569479645882.html)
 * [设计模式之原型模式(Prototype)](http://www.stvarnik.top/articles/2019/09/25/1569392286480.html)
 * [设计模式之建造者模式(Builder)](http://www.stvarnik.top/articles/2019/09/25/1569381141394.html)
-* [设计模式之单例模式](http://www.stvarnik.top/articles/2019/09/19/1568883598621.html)
+
+### 热门
+
+* [Markdown学习](http://www.stvarnik.top/articles/2019/07/19/1563524101996.html)
 * [设计模式之简单工厂模式&工厂模式&抽象工厂模式](http://www.stvarnik.top/articles/2019/09/19/1568875810067.html)
 * [java基础之委托和继承(Delegation and Inheritance)](http://www.stvarnik.top/articles/2019/07/30/1564476856848.html)
 * [设计模式（1）---单一职责原则（Single Responsibility Principle,SRP）](http://www.stvarnik.top/articles/2019/07/30/1564470105093.html)
-* [Markdown学习](http://www.stvarnik.top/articles/2019/07/19/1563524101996.html)
+* [设计模式之单例模式](http://www.stvarnik.top/articles/2019/09/19/1568883598621.html)
 
 
 
