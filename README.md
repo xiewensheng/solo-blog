@@ -11,7 +11,7 @@
 ### 最新
 
 * [我在 GitHub 上的开源项目](http://www.stvarnik.top/my-github-repos)
-* [生活随记](http://www.stvarnik.top/articles/2019/09/29/1569755374842.html)
+* [概率事件--相遇相知相爱](http://www.stvarnik.top/articles/2019/09/29/1569755374842.html)
 * [设计模式之访问者模式（Visitor Pattern）](http://www.stvarnik.top/articles/2019/09/27/1569568864659.html)
 * [设计模式之模板模式（Template）](http://www.stvarnik.top/articles/2019/09/27/1569568644847.html)
 * [设计模式之策略模式（Strategy）](http://www.stvarnik.top/articles/2019/09/27/1569568235603.html)
