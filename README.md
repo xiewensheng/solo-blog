@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [Nginx配置跨域](http://www.stvarnik.top/articles/2019/11/05/1572946510384.html)
 * [vo、po、dto、bo、pojo、entity、mode如何区分](http://www.stvarnik.top/articles/2019/10/30/1572404847962.html)
 * [待办事项](http://www.stvarnik.top/articles/2019/10/25/1571992002671.html)
 * [vscode 调试Vue-cli](http://www.stvarnik.top/articles/2019/10/25/1571985786922.html)
@@ -29,7 +30,6 @@
 * [设计模式之解释器模式（Interpreter）](http://www.stvarnik.top/articles/2019/09/27/1569566439834.html)
 * [设计模式之命令模式（Command)](http://www.stvarnik.top/articles/2019/09/27/1569564561820.html)
 * [设计模式之责任链模式（Chain of Responsibility）](http://www.stvarnik.top/articles/2019/09/27/1569564334665.html)
-* [设计模式之代理模式（Proxy）](http://www.stvarnik.top/articles/2019/09/27/1569563965326.html)
 
 ### 热门
 
@@ -46,6 +46,7 @@
 * [设计模式之桥接-模式(Bridge)](http://www.stvarnik.top/articles/2019/09/26/1569483981498.html)
 * [设计模式之过滤器模式(Filter)](http://www.stvarnik.top/articles/2019/09/26/1569486352398.html)
 * [设计模式之装饰器模式(Decorator)](http://www.stvarnik.top/articles/2019/09/26/1569487707788.html)
+* [设计模式之代理模式（Proxy）](http://www.stvarnik.top/articles/2019/09/27/1569563965326.html)
 
 
 
