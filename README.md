@@ -34,8 +34,8 @@
 ### 热门
 
 * [Markdown学习](http://www.stvarnik.top/articles/2019/07/19/1563524101996.html)
-* [java基础之委托和继承(Delegation and Inheritance)](http://www.stvarnik.top/articles/2019/07/30/1564476856848.html)
 * [设计模式之简单工厂模式&工厂模式&抽象工厂模式](http://www.stvarnik.top/articles/2019/09/19/1568875810067.html)
+* [java基础之委托和继承(Delegation and Inheritance)](http://www.stvarnik.top/articles/2019/07/30/1564476856848.html)
 * [设计模式（1）---单一职责原则（Single Responsibility Principle,SRP）](http://www.stvarnik.top/articles/2019/07/30/1564470105093.html)
 * [设计模式之建造者模式(Builder)](http://www.stvarnik.top/articles/2019/09/25/1569381141394.html)
 * [设计模式之单例模式](http://www.stvarnik.top/articles/2019/09/19/1568883598621.html)
